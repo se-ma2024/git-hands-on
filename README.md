@@ -1,2 +1,2 @@
-# git-hands-on
+# developで変更
 Gitのハンズオン用のサンプルリポジトリ（発展編）
